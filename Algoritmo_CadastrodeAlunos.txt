@@ -1,0 +1,22 @@
+Algoritmo "ApresentaroNome"
+
+var
+nome:caracter
+sobrenome: caracter
+idade:inteiro
+escolaridade:caracter
+
+Início
+Escreval("Informe seu nome:")
+Leia(nome)
+
+Escreval("Informe a sua idade:")
+Leia(idade)
+
+Escreval("Informe a sua escolaridade:")
+Leia(escolaridade)
+
+Escreval("A nome do aluno é", nome)
+Escreval("A idade do aluno é", idade)
+Escreval("A escolaridade é" , escolaridade)
+Fimalgoritmo
